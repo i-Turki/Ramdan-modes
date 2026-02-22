@@ -7,4 +7,6 @@
     "forge_version_id": "1.21.11-forge-61.1.1",
     "profile_name": "TurkiHQ Server",
     "client_folder_name": "TurkiHQ_Client"
+    "launcher_version": "1.0.0",
+    "launcher_download_url": "TurkiHQ.com"
 }
